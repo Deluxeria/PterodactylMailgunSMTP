@@ -9,3 +9,9 @@ Tutorial on how to setup Pterodactyl Mailgun SMTP
   little note: I recommend putting domain name as mail.domain.com
 5. go to your panel admin -> settings -> mail
 6. add the information from mailgun
+7. set port to 587 (encryption tls)
+8. your done
+
+
+
+ik not well explained, if you need help DM me on Discord: Deluxeria#0001
